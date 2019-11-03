@@ -15,9 +15,11 @@ The second objective is to unconver any hidden trends along the way.</br>
 <table align="center">
   <tr>
     <td align="center"> Conditional Formatting </td>
-    <td align="center" bgcolor='#e3e3e3'> Charts & Detailed Markdown </td>
+    <td align="center"> Charts & Detailed Markdown </td>
+  </tr>
+  <tr>
     <td align="center"> Pivot Tables </td>
-    <td align="center" bgcolor='#e3e3e3'> Reformatting Data </td>
+    <td align="center"> Reformatting Data </td>
   </tr>
 </table>
 
