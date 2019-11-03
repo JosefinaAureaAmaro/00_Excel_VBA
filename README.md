@@ -12,14 +12,16 @@ The first objective is to efficently organize and analyze the database of 4,000 
 The second objective is to unconver any hidden trends along the way.</br>
 
 <b> Skills demonstrated </b><br/>
+<table>
 <tbody>
   <tr>
-    <td> align="center"> Conditional Formatting </td>
-    <td> align="center"> Charts & Detailed Markdown </td>
-    <td> align="center"> Pivot Tables </td>
-    <td> align="center"> Reformatting Data </td>
+    <td align="center"> Conditional Formatting </td>
+    <td align="center"> Charts & Detailed Markdown </td>
+    <td align="center"> Pivot Tables </td>
+    <td align="center"> Reformatting Data </td>
   </tr>
 </tbody>
+</table>
 
 
 
