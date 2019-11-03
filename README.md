@@ -8,7 +8,7 @@
 
 <h3> KickStarter Data Analysis </h3> 
 <b><i> The Objective :</i></b><br/>
-1. The first objective is to efficently organize and analyze the database of 4,000 past projects, which include international & domestic projects.<br/>
+1. The first objective is to efficently organize & analyze the database of 4,000 past projects; which include international & domestic projects.<br/>
 2. The second objective is to unconver any hidden trends along the way.</br>
 </br>
 </br>
