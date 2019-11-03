@@ -12,7 +12,7 @@ The first objective is to efficently organize and analyze the database of 4,000 
 The second objective is to unconver any hidden trends along the way.</br>
 
 <b> Skills demonstrated </b><br/>
-<table>
+<table align="center">
 <tbody>
   <tr>
     <td align="center"> Conditional Formatting </td>
