@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-  <p> Pivot Tables, Calculated Fields, V-Lookups, Reformatting Data, Charts & Detailed Markdown </p>
+  <p><b>A few Excel skills demonstrated:</b> Pivot Tables, Calculated Fields, V-Lookups, Reformatting Data, Charts & Detailed Markdown </p>
 </div>
 
   -----------------------------------------------------------------------------------------
