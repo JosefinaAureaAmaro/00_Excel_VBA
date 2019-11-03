@@ -11,7 +11,7 @@ The second is a quick macro that developes two calculated fields regarding Stock
 The first objective is to efficently organize and analyze the database of 4,000 past projects, which include international & domestic projects.<br/>
 The second objective is to unconver any hidden trends along the way.</br>
 
-<b> Skills demonstrated </b>
+<b> Skills demonstrated </b><br/>
 | Conditional Formatting | Charts & Details | Pivot Tables | Reformatting Data |
 
 
