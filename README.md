@@ -13,7 +13,7 @@
 
 -------------------------------------------------------------------------------
 
-<b> Skills demonstrated </b><br/>
+<b> Some Excel Skills Demonstrated </b><br/>
 <table align="center">
   <tr>
     <td align="center"> Conditional Formatting </td>
