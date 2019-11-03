@@ -22,6 +22,10 @@
   <img src="https://github.com/JosefinaAureaAmaro/00_Excel_VBA/blob/master/images/final_presentation_link.PNG"></a>
 </div>
 
+<div align="center">
+  <p> Pivot Tables, Calculated Fields, V-Lookups, Reformatting Data, Charts & Detailed Markdown </p>
+</div>
+
   -----------------------------------------------------------------------------------------
   
 <h3> Macro Excerise </h3> 
