@@ -13,7 +13,7 @@
 
 -------------------------------------------------------------------------------
 
-<b> Some Excel Skills Demonstrated </b><br/>
+<b> Few Excel Skills Demonstrated </b><br/>
 <table align="center">
   <tr>
     <td align="center"> Conditional Formatting </td>
@@ -23,7 +23,10 @@
     <td align="center"> Pivot Tables </td>
     <td align="center"> Reformatting Data </td>
   </tr>
-</table>
+</table><br/>
+
+---------------------------------------------
+<img src="https://github.com/JosefinaAureaAmaro/00_Excel_VBA/blob/master/images/header_img.PNG">
 
 
 
