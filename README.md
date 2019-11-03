@@ -29,5 +29,5 @@
   -----------------------------------------------------------------------------------------
   
 <h3> Macro Excerise </h3> </br>
-<p> The Objective of the Macro Excersise was to demonstrate a conditional for loop with two iterable variables.</p>
+<p> The Objective of the Macro Excersise was to demonstrate a <b>Conditional For-Loop</b> with <b>two iterable variables.</b></p>
 
