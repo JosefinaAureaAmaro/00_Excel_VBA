@@ -17,8 +17,8 @@
 </br>
 <img src="https://github.com/JosefinaAureaAmaro/00_Excel_VBA/blob/master/images/Analysis_Objectives.PNG">
 
-<a href="https://github.com/JosefinaAureaAmaro/00_Excel_VBA/blob/master/Excel_Data_Analysis_Kickstarter_Data_Presentation.pdf" align="center">
-  <img src="https://github.com/JosefinaAureaAmaro/00_Excel_VBA/blob/master/images/final_presentation_link.PNG"></a>
+<a href="https://github.com/JosefinaAureaAmaro/00_Excel_VBA/blob/master/Excel_Data_Analysis_Kickstarter_Data_Presentation.pdf">
+  <img src="https://github.com/JosefinaAureaAmaro/00_Excel_VBA/blob/master/images/final_presentation_link.PNG" align="center"></a>
 
 
 
