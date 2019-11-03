@@ -17,5 +17,12 @@
 </br>
 <img src="https://github.com/JosefinaAureaAmaro/00_Excel_VBA/blob/master/images/Analysis_Objectives.PNG">
 
+<div align="center">
+<a href="https://github.com/JosefinaAureaAmaro/00_Excel_VBA/blob/master/Excel_Data_Analysis_Kickstarter_Data_Presentation.pdf">
+  <img src="https://github.com/JosefinaAureaAmaro/00_Excel_VBA/blob/master/images/final_presentation_link.PNG"></a>
+</div>
 
+  -----------------------------------------------------------------------------------------
+  
+<h3> Macro Excerise </h3> 
 
