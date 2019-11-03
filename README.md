@@ -7,7 +7,7 @@ The first is an indepth analysis on KickStarter database of 4,000 past projects.
 The second is a quick macro that developes two calculated fields regarding Stock Exchange Ticker data. <br/></p>
 
 <h3> KickStarter Data Analysis </h3> 
-<p align="center"> <i> The Objective </i>:<br/></p>
+<b><i> The Objective :</i></b><br/>
 1. The first objective is to efficently organize and analyze the database of 4,000 past projects, which include international & domestic projects.<br/>
 2. The second objective is to unconver any hidden trends along the way.</br>
 
