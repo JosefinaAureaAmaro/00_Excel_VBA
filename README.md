@@ -31,3 +31,7 @@
 <h3> Macro Excerise </h3> </br>
 <p> The Objective of the Macro Excersise was to demonstrate a <b>Conditional For-Loop</b> with <b>two iterable variables.</b></p>
 
+<div align="center">
+<a href="https://github.com/JosefinaAureaAmaro/00_Excel_VBA/blob/master/StockExchange_Macro_Exercise/Macro_Calculated_Field_StockExchangeData.vb">
+  <img src="https://github.com/JosefinaAureaAmaro/00_Excel_VBA/blob/master/images/macro_img_link.PNG"></a>
+</div>
