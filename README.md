@@ -26,13 +26,13 @@
 </div>
 
 <div align="center">
-  <p><b>A few Excel skills demonstrated:</b> Pivot Tables, Calculated Fields, V-Lookups, Reformatting Data, Charts & Detailed Markdown </p>
+  <p><b>A few Excel skills demonstrated:</b> Pivot Tables, V-Lookups, Reformatting Data, Calculated Fields, Charts & Detailed Markdown </p>
 </div>
 
   -----------------------------------------------------------------------------------------
   
 <h3> Macro Excerise </h3> </br>
-<p>The result of the Macro Excersise was to demonstrate a <b>Conditional For-Loop</b> with <b>two iterable variables.</b></p>
+<p>The result of the Macro Excersise demonstrated a <b>Conditional For-Loop</b> with <b>two iterable variables.</b></p>
 
 <div align="center">
 <a href="https://github.com/JosefinaAureaAmaro/00_Excel_VBA/blob/master/StockExchange_Macro_Exercise/Macro_Calculated_Field_StockExchangeData.vb">
