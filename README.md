@@ -1,10 +1,13 @@
 <img src="https://github.com/JosefinaAureaAmaro/00_Excel_VBA/blob/master/images/header_img.PNG">
+<div align="center"> 
 <h2> Repository Details </h2>
 
-<p align="center"> Welcome! 👋 ; <br/> 
-  <b>This repository is the home of <u>two excerises</u>.</b><br/>
-  The <b>first</b> is an indepth analysis on KickStarter dataset of 4,000 past projects.<br/>
-  The <b>second</b> is a quick macro that developes two calculated fields based on a conditional for-loop regarding Stock Exchange Ticker data.<br/></p>
+<p> Welcome! 👋 ; <br/> 
+    <b>This repository is the home of <u>two excerises</u>.</b><br/>
+    The <b>first</b> is an indepth analysis on KickStarter dataset of 4,000 past projects.<br/>
+    The <b>second</b> is a quick macro that developes two calculated fields based on a conditional for-loop regarding Stock Exchange     Ticker data.<br/>
+</p>
+</div>
   
   -----------------------------------------------------------------------------------------
 
