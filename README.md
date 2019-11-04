@@ -2,8 +2,8 @@
 <div align="center"> 
 <h2> Repository Details </h2>
 
-<p> Welcome! 👋 ; <br/> 
-    <b>This repository is the home of <u>two excerises</u>.</b><br/>
+<p> Welcome! 👋 <br/> 
+    <b>This repository is the home of <i>two excerises</i>.</b><br/>
     The <b>first</b> is an indepth analysis on KickStarter dataset of 4,000 past projects.<br/>
     The <b>second</b> is a quick macro that developes two calculated fields based on a conditional for-loop regarding Stock Exchange     Ticker data.<br/>
 </p>
