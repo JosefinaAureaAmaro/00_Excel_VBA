@@ -12,9 +12,9 @@
   -----------------------------------------------------------------------------------------
 
 <h3> KickStarter Data Analysis </h3> 
-<b><i>The Objective:</i></b><br/>
+<b>Overview Objective:</b><br/>
 1. The first objective is to efficently organize & analyze the database of 4,000 past projects; which include international & domestic projects.<br/>
-2. The second objective is to unconver any hidden trends along the way.</br>
+2. The second objective is to unconver trends related to project success such as budget, subject, funding deadlines & more.</br>
 </br>
 </br>
 </br>
